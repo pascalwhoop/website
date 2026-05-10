@@ -1,6 +1,0 @@
-[submodule "themes/hello-friend-ng"]
-	path = themes/hello-friend-ng
-	url = https://github.com/pascalwhoop/hugo-theme-hello-friend-ng.git
-[submodule "themes/devresume"]
-	path = themes/devresume
-	url = git@github.com:cowboysmall-tools/hugo-devresume-theme.git
